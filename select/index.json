@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜明けの君へ",
+  "base_artist": "TOMOO",
+  "createdAt": "2026-03-08T09:06:36.790693Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明けの君へ",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/pl_01_夜明けの君へ_TOMOO.txt"
+    }
+  ]
+}
